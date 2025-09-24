@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "rikkkkkaの小屋"
-  text: "有趣的人干有趣的事;有趣的人写有趣的代码;有趣的OIer AK IOI"
-  tagline: My great project tagline
+  name: "OIRikka_homepage"
+  text: "world.execute((OIer,Creator)=>me)"
+  tagline: 一个OIer的算法分享平台
   actions:
     - theme: brand
       text: Markdown Examples
